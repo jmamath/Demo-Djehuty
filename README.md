@@ -13,4 +13,5 @@ The player’s objective in Djehuty is simple: to reproduce the letter drawn on 
 * The player can retry as many times as they want, as the AI produces a new letter after a player gets a score; otherwise, the player can exit to the main menu with the back button.
 The goal is to achieve the highest score i.e to get as many stars as possible. 
 
+![Alt Text](https://github.com/jmamath/Demo-Djehuty/edit/master/demo.gif)
 
