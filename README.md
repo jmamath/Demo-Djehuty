@@ -12,6 +12,6 @@ The player’s objective in Djehuty is simple: to reproduce the letter drawn on 
 * By clicking on the star button, the student gets a score in stars. The more accurate the replication, the higher the score. If the user got more than 3.5 stars the next letter is sampled with respect to the style of the user.
 * The player can retry as many times as they want, as the AI produces a new letter after a player gets a score; otherwise, the player can exit to the main menu with the back button.
 The goal is to achieve the highest score i.e to get as many stars as possible. 
-
-<img src="https://github.com/jmamath/Demo-Djehuty/blob/master/demo.gif" width="260">
-
+<p align="center">
+  <img src="https://github.com/jmamath/Demo-Djehuty/blob/master/demo.gif" width="260">
+</p>
